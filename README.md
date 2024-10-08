@@ -1,7 +1,11 @@
+![image](https://github.com/user-attachments/assets/ed3fccfe-0be0-4867-aefb-acf293e1ccde)
 
 
-# dark_web_kullanici_analizi
-dark web üzerindeki kullanıcıları ve etkileşim istatikleri
+
+
+
+# Dark Web Kullanıcı Analizi
+Dark web üzerindeki kullanıcıları ve etkileşim istatikleri
 Kullanılan veri seti: https://www.kaggle.com/datasets/zeesolver/dark-web 
 ## Genel Değerlendirme
 Elde edilen bulgular, kullanıcıların yaş, cinsiyet, gelir ve bağımlılık seviyesi gibi demografik özelliklerinin dark web üzerindeki içerik tüketim alışkanlıklarını etkileyen önemli faktörler olduğunu göstermektedir. Analiz sonuçları, farklı demografik grupların içerik tercihlerinin ve izleme davranışlarının nasıl değişiklik gösterdiğine dair önemli içgörüler sunmaktadır.
